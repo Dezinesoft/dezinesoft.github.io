@@ -1642,7 +1642,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .row-bottom-padded-md {
-  padding-bottom: 4em;
+  
 }
 @media screen and (max-width: 768px) {
   .row-bottom-padded-md {
